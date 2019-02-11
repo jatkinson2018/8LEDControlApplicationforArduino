@@ -1,0 +1,13 @@
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\bin\Debug\8LEDControlApplication.exe.config
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\bin\Debug\8LEDControlApplication.exe
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\bin\Debug\8LEDControlApplication.pdb
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\bin\Debug\aa\8LEDControlApplication.resources.dll
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\8LEDControlApplication.csprojAssemblyReference.cache
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\_8LEDControlApplication.LEDControlApplication.resources
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\_8LEDControlApplication.Properties.Resources.resources
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\_8LEDControlApplication.LEDControlApplication.aa.resources
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\8LEDControlApplication.csproj.GenerateResource.cache
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\8LEDControlApplication.csproj.CoreCompileInputs.cache
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\aa\8LEDControlApplication.resources.dll
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\8LEDControlApplication.exe
+C:\Users\cooli\source\repos\8LEDControlApplication\8LEDControlApplication\obj\Debug\8LEDControlApplication.pdb
